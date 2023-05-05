@@ -9,7 +9,7 @@
             "App\\": "app/"
         },
         "files": [
-            "src/Providers/CrudGeneratorServiceProvider.php"
+            "src/CrudGeneratorServiceProvider.php"
         ]
     },
     "authors": [
