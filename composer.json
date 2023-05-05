@@ -19,12 +19,5 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Sufiyan\\CrudGenerator\\CrudGenerator"
-            ]
-        }
-    }
+    "require": {}
 }
